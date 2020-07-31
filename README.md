@@ -1,4 +1,4 @@
-# Tailwind with Gulp
+# Tailwind CSS with Gulp starter project
 
 Use [Tailwind](https://github.com/tailwindlabs/tailwindcss)
 with Gulp. This repo contains a `gulpfile.js` with two tasks:
