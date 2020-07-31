@@ -1,2 +1,3 @@
-# tailwind-with-gulp
-Tailwind starter config for gulp users
+# Tailwind with Gulp
+
+Tailwind starter config with gulp

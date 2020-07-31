@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+.test {
+    @apply text-blue-500;
+}
+
+@import "tailwindcss/utilities";

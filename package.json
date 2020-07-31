@@ -1,0 +1,27 @@
+{
+    "name": "bookism-html",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "watch": "gulp"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-cli": "^2.3.0",
+        "node-sass": "^4.14.1",
+        "postcss-import": "^12.0.1",
+        "postcss-loader": "^3.0.0",
+        "sass-loader": "^9.0.2",
+        "style-loader": "^1.2.1",
+        "tailwindcss": "^1.6.0",
+        "autoprefixer": "^9.8.6",
+        "browser-sync": "^2.26.12",
+        "gulp-clean-css": "^4.3.0",
+        "gulp-postcss": "^8.0.0",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^4.1.0",
+        "mini-css-extract-plugin": "^0.9.0",
+        "postcss-cli": "^7.1.1"
+    }
+}
